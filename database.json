@@ -1,0 +1,82 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fullName": "Theresa Jackson",
+            "email": "bamamama83@yahoo.com"
+        },
+        {
+            "id": 2,
+            "fullName": "Ellie Joy",
+            "email": "ejloveskj@goowy.com"
+        },
+        {
+            "id": 3,
+            "fullName": "Remi Rae",
+            "email": "bamalosttovandy@gmail.com"
+        }
+
+    ],
+    "ShopItems": [
+        {
+            "id": 1,
+            "userId": 2,
+            "name": "washer and dryer",
+            "price": 200.50,
+            "description": "washer and dryer",
+            "necessity": true
+        },
+        {
+            "id": 2,
+            "userId": 3,
+            "name": "baby gate",
+            "price": 75,
+            "description": "safety is key bb",
+            "necessity": true 
+        },
+        {
+            "id": 3,
+            "userId": 1,
+            "name": "massage",
+            "price": 125,
+            "description": "patient has been talking about a pool cover for ten minutes ",
+            "necessity": false
+        }
+    ],
+    "TodoItems": [
+        {
+            "id": 1,
+            "userId": 1,
+            "name": "cook something",
+            "price": 100,
+            "description": "anything that doesnt come with instructions on the box",
+            "necessity": false
+        },
+        {
+            "id": 2,
+            "userId": 3,
+            "name": "be adorable",
+            "price": 5000,
+            "description": "be you . you're perfection",
+            "necessity": true
+
+        },
+        {
+            "id":3,
+            "userId": 2,
+            "name": "win a pageant",
+            "price": 300,
+            "description": "just giggle bb",
+            "necessity":false
+        },
+        {
+            "id":4,
+            "userId": 1,
+            "name": "learn more about google alerts & jobs",
+            "price": 13,
+            "description": "its about time kimothy",
+            "necessity": false
+
+        }
+    ]
+}
